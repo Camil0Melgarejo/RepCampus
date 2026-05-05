@@ -60,10 +60,10 @@ Actualmente no existe un canal oficial para reportar daños en el campus. Los da
 
 | Nombre | Usuario GitHub | Rol |
 |--------|---------------|-----|
-| Camilo Andrés Bastos Melgarejo | [@Camil0Melgarejo](https://github.com/Camil0Melgarejo) | Por definir |
-| Leonardo Andrés Villegas Quintero | — | Por definir |
+| Camilo Andrés Bastos Melgarejo | [@Camil0Melgarejo](https://github.com/Camil0Melgarejo) | Desarrollador Frontend & Arquitecto de Software |
+| Leonardo Andrés Villegas Quintero | @Leonardo_villegas(https://github.com/user2hub) | Desarrollador Backend & Administrador de Base de Datos |
 | Adrián Felipe Rojas Fernández | — | Por definir |
-| Johan Sebastián Molina Peña | — | Por definir |
+| Johan Sebastián Molina Peña | @johanmolina1226-sys(https://github.com/johanmolina1226-sys) | Analista de Calidad & Documentador |
 
 ---
 
